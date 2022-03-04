@@ -1,0 +1,20 @@
+HW 5 Help Log
+
+
+How to use destructors:
+Rasterizer (HW3):
+
+Header:
+~Linesegment();
+Cpp:
+LineSegment::~LineSegment(){};
+
+--------------------------------------------------------------------------------------
+
+5:47pm, 11 Oct: Static Member Variables Help
+
+https://www.learncpp.com/cpp-tutorial/static-member-variables/
+
+7:36am, 14th Oct: Shift + Key help
+
+https://stackoverflow.com/questions/46963275/qt-keyboard-modifier-shift-key-along-with-another-keypress-not-being-detected

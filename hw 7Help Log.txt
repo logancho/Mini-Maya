@@ -1,0 +1,31 @@
+Help Log HW7
+
+5:05pm
+
+https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions/
+
+7:54pm
+https://stackoverflow.com/questions/58322832/glm-angleaxis-wrong
+
+angleaxis takes in radians, similarly to glm::sin and glm::cos
+
+10:07pm
+
+JSON file parse help
+
+https://newbedev.com/qt-parsing-json-using-qjsondocument-qjsonobject-qjsonarray
+
+http://erickveil.github.io/2016/04/06/How-To-Manipulate-JSON-With-C++-and-Qt.html
+
+
+12:02pm
+
+https://www.cplusplus.com/reference/utility/make_pair/
+
+make_pair({ … })
+
+12:05pm
+https://thispointer.com/how-to-iterate-over-a-map-in-c/
+
+10:53pm
+https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/glVertexAttribPointer.xhtml
